@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# downloaded
+rpi4-osdev/
+
 # Object files
 *.o
 *.ko
